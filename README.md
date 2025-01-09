@@ -83,7 +83,6 @@ You can reach me through the following social networks and platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/gabriela-ssa/)
 - [GitHub](https://github.com/gabriela-data)
-- 
 ---
 
 Thank you for visiting my profile! Let's build a better future with code! 🚀
