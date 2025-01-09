@@ -1,49 +1,89 @@
-# Data Science Portfolio - Desenvolvido em Flutter
+# Gabriela Oliveira - Java, Node.js & Python Developer for Microservices
 
-## Sobre o Projeto
-Este portfólio foi desenvolvido em Flutter para apresentar meus projetos e habilidades como cientista/analista de dados. Ele é responsivo, animado e otimizado tanto para web quanto para dispositivos móveis. Aqui, você encontrará alguns dos projetos mais relevantes que trabalhei, usando ferramentas como Python, R, Power BI e SQL.
+Hello! I'm **Gabriela Oliveira**, a passionate developer focused on building efficient and scalable solutions. Currently, I’m enhancing my skills in **Java**, **Node.js**, and **Python** to create powerful microservices. I gained solid technical knowledge during my **Systems Development** course at **SENAI CETIND**, where I worked on various projects that showcase my ability to build innovative and practical systems.
 
-[Clique aqui](https://gabriela-data.github.io/gabriela-data/) para ver o portifólio completo!
+## 🔧 Skills
 
-## Funcionalidades
-- **Responsividade**: Adaptável a diferentes tamanhos de tela (mobile e desktop).
-- **Animações Interativas**: Transições suaves entre seções, melhorando a experiência do usuário.
-- **Projetos Relevantes**: Visualização dos projetos com detalhes técnicos e resultados.
-- **Design Moderno**: Interface intuitiva e visualmente atraente.
+- **Java**: Developing robust systems with a focus on RESTful APIs, system integration, and applying object-oriented design principles. Experience with frameworks like **Spring Boot** and **JPA**.
+- **Node.js**: Building scalable and efficient microservices with **Node.js**, using **Express** to create APIs and integrating with SQL/NoSQL databases.
+- **Python**: Developing scripts and microservices with **Python**, focusing on automation, data analysis, and API integrations. Experience with frameworks like **Flask** and **FastAPI**.
 
-## Tecnologias Utilizadas
-- **Flutter**: Framework principal usado para desenvolver a aplicação.
-- **Dart**: Linguagem de programação utilizada no Flutter.
-- **Backend (Python, R)**: Projetos integrados que utilizam linguagens de programação para análise de dados.
-- **Análise de Dados**: Python, R, Power Query e ferramentas de visualização de dados.
+## 🎓 Experience
 
-## Instalação e Execução
-Para rodar este portfólio localmente, siga as instruções abaixo:
+During my **Systems Development** course at **SENAI CETIND**, I had the opportunity to apply my knowledge in several practical projects, developing microservices and full systems following agile development practices and solid software architecture principles.
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/gabriela-data/my-portfolio.git
-   
-2. Acesse o diretório do projeto:
-    ```bash
-    cd my-portfolio
+### 🚀 Projects
 
-4. Instale as dependências:
-   ```bash
-   flutter pub get
+1. **[Java Project - Task Management API](https://github.com/gabriela-data/projeto-java)**  
+   A **RESTful API** built in **Java** using **Spring Boot** to manage tasks, with features such as create, list, update, and delete tasks. The application follows a clean architecture and integrates with a relational database (MySQL).
 
-6. Execute o projeto:
-   ```bash
-   flutter run
+2. **[Node.js Project - JWT Authentication System](https://github.com/gabriela-data/projeto-nodejs)**  
+   A user authentication microservice developed with **Node.js** and **Express**, using **JWT (JSON Web Token)** for secure authentication and authorization. This project was designed to be easily scalable and integrated with other systems.
 
->**Nota**: Certifique-se de ter o Flutter configurado corretamente em sua máquina.
->Para mais informações, acesse [Flutter Dev](https://docs.flutter.dev/).
+3. **[Python Project - Sales Data Analyzer](https://github.com/gabriela-data/projeto-python)**  
+   A **Python**-based data analysis system using the **pandas** library to process large sales datasets and generate detailed reports. The system also integrates with external APIs and includes graphical data visualizations.
 
+### 🛠️ Other Projects on GitHub
 
-## Contato
-Se você tiver interesse em colaborar ou quiser saber mais sobre meu trabalho, entre em contato:
+You can check out all my projects on my GitHub profile: [Gabriela Oliveira - GitHub](https://github.com/gabriela-data).
 
-- Email: gabrielawork1@gmail.com
+### 🏃‍♀️ How to Run the Projects Locally
 
-- LinkedIn: [Gabriela Almeida](https://www.linkedin.com/in/gabriela-ssa/)
+To run the projects locally, follow the instructions below:
 
+#### 1. **Java Project (Spring Boot)**  
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/gabriela-data/projeto-java.git
+     cd projeto-java
+     ```
+   - Open the project in your IDE (e.g., IntelliJ, Eclipse).
+   - Run the project using the command:
+     ```bash
+     ./mvnw spring-boot:run
+     ```
+
+#### 2. **Node.js Project (Express)**  
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/gabriela-data/projeto-nodejs.git
+     cd projeto-nodejs
+     ```
+   - Install dependencies:
+     ```bash
+     npm install
+     ```
+   - Start the server:
+     ```bash
+     npm start
+     ```
+
+#### 3. **Python Project (Pandas)**  
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/gabriela-data/projeto-python.git
+     cd projeto-python
+     ```
+   - Install dependencies:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - Run the script:
+     ```bash
+     python analisador.py
+     ```
+
+## 🌱 Goal and Vision
+
+My goal as a developer is to create efficient, scalable, and maintainable systems. With a focus on **microservices** and **modular architecture**, I always strive to learn new technologies and apply best development practices to provide solutions that meet business and user needs. I believe in the power of collaboration and teamwork to make projects successful, and I’m always open to new challenges.
+
+## 📬 Contact
+
+You can reach me through the following social networks and platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/gabriela-ssa/)
+- [GitHub](https://github.com/gabriela-data)
+- 
+---
+
+Thank you for visiting my profile! Let's build a better future with code! 🚀
