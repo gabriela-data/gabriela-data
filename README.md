@@ -1,6 +1,6 @@
 # Gabriela Almeida - Java, Node.js & Python Developer for Microservices
 
-Hello! I'm **Gabriela Oliveira**, a passionate developer focused on building efficient and scalable solutions. Currently, I’m enhancing my skills in **Java**, **Node.js**, and **Python** to create powerful microservices. I gained solid technical knowledge during my **Systems Development** course at **SENAI CETIND**, where I worked on various projects that showcase my ability to build innovative and practical systems.
+Hello! I'm **Gabriela Almeida**, a passionate developer focused on building efficient and scalable solutions. Currently, I’m enhancing my skills in **Java**, **Node.js**, and **Python** to create powerful microservices. I gained solid technical knowledge during my **Systems Development** course at **SENAI CETIND**, where I worked on various projects that showcase my ability to build innovative and practical systems.
 
 ## 🔧 Skills
 
