@@ -25,7 +25,7 @@ During my **Systems Development** course at **SENAI CETIND**, I had the opportun
 
 ### 🛠️ Other Projects on GitHub
 
-You can check out all my projects on my GitHub profile: [Gabriela Oliveira - GitHub](https://github.com/gabriela-data).
+You can check out all my projects on my GitHub profile: [Gabriela Almeida - GitHub](https://github.com/gabriela-data).
 
 ### 🏃‍♀️ How to Run the Projects Locally
 
